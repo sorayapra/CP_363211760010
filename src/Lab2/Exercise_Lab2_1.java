@@ -7,15 +7,15 @@ public class Exercise_Lab2_1 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter number 1 : ");
-        int a = scanner.nextLine();
+        int a = scanner.nextInt();
         System.out.print("Enter number 2 : ");
-        int b = scanner.nextLine();
+        int b = scanner.nextInt();
         System.out.print("Enter number 3 : ");
-        int c = scanner.nextLine();
+        int c = scanner.nextInt();
         System.out.print("Enter number 4 : ");
-        int d = scanner.nextLine();
+        int d = scanner.nextInt();
         System.out.print("Enter number 5 : ");
-        int f = scanner.nextLine();
+        int f = scanner.nextInt();
 
         //finding
         int total = a + b + c + d + f;

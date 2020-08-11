@@ -1,4 +1,4 @@
-package Lab2;
+package Exersice;
 
 import java.util.Scanner;
 
@@ -21,7 +21,9 @@ public class Exercise_Lab2_1 {
         int total = a + b + c + d + f;
         int avy = total / 5;
 
-
+        //display
+        System.out.println("Total ="+total);
+        System.out.println("Average ="+avy);
 
 
 

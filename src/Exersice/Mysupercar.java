@@ -1,7 +1,7 @@
 package Exersice;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class mySuperCar {
+public class Mysupercar {
     public static void main(String[] args) {
         ArrayList<Supercar> mySup = new ArrayList<Supercar>();
         Scanner sc = new Scanner(System.in);
